@@ -1,0 +1,2 @@
+pysensors
+pysqlite3
