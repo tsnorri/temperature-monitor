@@ -1,9 +1,9 @@
 # temperature-monitor
-(Yet another) temperature logger for lm-sensors and hddtemp
+(Yet another) temperature logger for [lm-sensors](https://github.com/lm-sensors/lm-sensors) and [hddtemp](https://savannah.nongnu.org/projects/hddtemp/).
 
 ## Purpose
 
-Read the temperature values from [lm-sensors](https://github.com/lm-sensors/lm-sensors) and [hddtemp](https://savannah.nongnu.org/projects/hddtemp/) and store them to a [SQLite 3](https://sqlite.org/) database.
+Read the temperature values from lm-sensors and hddtemp and store them to a [SQLite 3](https://sqlite.org/) database.
 
 ## Setup
 
