@@ -3,7 +3,7 @@
 
 ## Purpose
 
-Read the temperature values from lm-sensors and hddtemp and store them to a [SQLite 3](https://sqlite.org/) database.
+Read the temperature values from lm-sensors and hddtemp and store them to a [SQLite](https://sqlite.org/) database.
 
 ## Setup
 
